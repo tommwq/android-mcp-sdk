@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MCP SDK permission strings -->
+    <string name="mcp_permission_label">Access MCP Services</string>
+    <string name="mcp_permission_description">Allows the app to access Model Context Protocol services provided by other applications.</string>
+</resources>

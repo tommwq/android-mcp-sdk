@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Standard MCP SDK permission for accessing MCP services -->
+    <permission
+        android:name="zwdroid.mcp.sdk.permission.ACCESS_MCP_SERVICES"
+        android:protectionLevel="normal"
+        android:label="@string/mcp_permission_label"
+        android:description="@string/mcp_permission_description" />
+
+</manifest>
